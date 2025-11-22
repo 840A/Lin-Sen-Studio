@@ -4,8 +4,8 @@
 
 ### 林木
 
-<span style="display:inline-block;background:#0066ff;color:#fff;padding:6px 14px;border-radius:999px;font-size:14px;">前端小白</span>
-<span style="display:inline-block;background:#0066ff;color:#fff;padding:6px 14px;border-radius:999px;font-size:14px;">无人机摄影</span>
+<span style="display:inline-block;background:#0066ff;color:#fff;padding:6px 14px;border-radius:999px;font-size:14px;">前端小白|</span>
+<span style="display:inline-block;background:#0066ff;color:#fff;padding:6px 14px;border-radius:999px;font-size:14px;">无人机摄影|</span>
 <span style="display:inline-block;background:#0066ff;color:#fff;padding:6px 14px;border-radius:999px;font-size:14px;">数码爱好者</span>
 
 你好！这里是 林木，  
