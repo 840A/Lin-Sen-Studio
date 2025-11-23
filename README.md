@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="1763756833066.jpg" width="160" style="border-radius:50%;" alt="avatar"/>
+<img src="1763855683829.png" width="160" style="border-radius:50%;" alt="avatar"/>
 
 ### 林木
 
