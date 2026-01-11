@@ -15,3 +15,4 @@
 [GitHub](https://github.com/840A) | [QQ](https://qm.qq.com/q/HiNSH2pLKE) | [B 站](https://b23.tv/KOOFX1Z)
 
 </div>
+https://apps.airdroid.com/cast
