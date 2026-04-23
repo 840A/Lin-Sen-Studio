@@ -16,8 +16,8 @@
 ## 🚀 技能领域 & 技术栈
 
 - 💻 **前端**：React / Vue / TypeScript / TailwindCSS  
-- 🛸 **航拍后期**：DJI / Adobe Premiere / DaVinci Resolve  
-- ☁️ **资源工具**：Alist / Aria2 / 各网盘 API  
+- 🛸 **航拍**：DJI  /
+- ☁️ **资源**：Alist / Aria2 / 各网盘 API  
 
 ## 📊 GitHub 活跃
 
